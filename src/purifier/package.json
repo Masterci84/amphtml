@@ -23,7 +23,7 @@
     "rollup": "2.33.2"
   },
   "dependencies": {
-    "dompurify": "2.0.7"
+    "dompurify": "2.4.9"
   },
   "optionalDependencies": {
     "@types/dompurify": "2.0.4"
