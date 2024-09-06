@@ -27,9 +27,9 @@
     "preact": "10.2.1",
     "promise-pjs": "1.1.4",
     "prop-types": "15.7.2",
-    "react-dates": "15.5.3",
+    "react-dates": "20.2.4",
     "react-jss": "10.3.0",
-    "rrule": "2.6.6",
+    "rrule": "2.7.0",
     "web-activities": "1.13.0",
     "web-animations-js": "2.3.1"
   },
