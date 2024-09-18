@@ -18,7 +18,7 @@
     "@ampproject/toolbox-cache-url": "2.5.4",
     "@ampproject/viewer-messaging": "1.1.0",
     "@ampproject/worker-dom": "0.27.3",
-    "dompurify": "2.0.7",
+    "dompurify": "2.5.4",
     "intersection-observer": "0.11.0",
     "jss": "10.3.0",
     "jss-preset-default": "10.4.0",
